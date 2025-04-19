@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>명신 홈페이지</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+      background-color: #f9f9f9;
+    }
+    h1 {
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>명신 홈페이지에 오신 것을 환영합니다!</h1>
+  <p>이곳은 GitHub Pages를 통해 만든 나의 첫 번째 웹사이트입니다.</p>
+</body>
+</html>
