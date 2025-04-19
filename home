@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>홈페이지 제목</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f9f9f9;
+      text-align: center;
+      margin: 0;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>나의 첫 번째 홈페이지!</h1>
+  <p>여기는 홈페이지의 소개나 내용이 들어가는 부분입니다.</p>
+  <a href="index.html">홈페이지 처음</a> <!-- 여기에 버튼을 추가해 -->
+</body>
+</html>
